@@ -1,1 +1,1 @@
-# scrape-virgin-active-classes_python-selenium
+A tool for scraping the gym class schedule from the Virgin Active website. 
